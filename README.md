@@ -10,6 +10,3 @@ Explore the code examples in each file. Run a specific file using `python filena
 
 Contributions are welcome! Feel free to open issues or pull requests.
 
-## License
-
-This project is licensed under the MIT License.
